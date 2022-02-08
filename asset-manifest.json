@@ -1,11 +1,20 @@
 {
   "files": {
-    "main.css": "/training-shop/static/css/main.853597ca.css",
-    "main.js": "/training-shop/static/js/main.0cf045eb.js",
+    "main.css": "/training-shop/static/css/main.40e2085c.css",
+    "main.js": "/training-shop/static/js/main.84cb9d26.js",
     "static/media/banner1.jpg": "/training-shop/static/media/banner1.048dc8deea2485d5488e.jpg",
     "static/media/banner4.jpg": "/training-shop/static/media/banner4.55de23ebceb6f9da1c62.jpg",
+    "static/media/women5.jpg": "/training-shop/static/media/women5.363e0e8c20844e94187f.jpg",
+    "static/media/women3.jpg": "/training-shop/static/media/women3.0b8f41098b08d3def626.jpg",
+    "static/media/women1.jpg": "/training-shop/static/media/women1.e5b8870686f6058dc55f.jpg",
+    "static/media/women2.jpg": "/training-shop/static/media/women2.c54238646312eaa8b3c6.jpg",
+    "static/media/women6.jpg": "/training-shop/static/media/women6.28f8cc871006491fbe6f.jpg",
     "static/media/banner2.jpg": "/training-shop/static/media/banner2.b07c29a53ca5d7c6bb48.jpg",
+    "static/media/women7.jpg": "/training-shop/static/media/women7.1a05b311f7288c6c0662.jpg",
+    "static/media/women8.jpg": "/training-shop/static/media/women8.47ad6cd3ba7fe24ef0b8.jpg",
+    "static/media/women4.jpg": "/training-shop/static/media/women4.46d31ed37fb679717554.jpg",
     "static/media/banner3.jpg": "/training-shop/static/media/banner3.1a20794ad48bc046c8b3.jpg",
+    "static/media/rating4.svg": "/training-shop/static/media/rating4.40cb8d8ce97aa8d448804c2d11a41ba0.svg",
     "static/media/truck.svg": "/training-shop/static/media/truck.92358943fa46ca72e5efedf2553dcf54.svg",
     "static/media/instagram.svg": "/training-shop/static/media/instagram.4023bbf158466c6e49f75b00fd9f4f87.svg",
     "static/media/globe.svg": "/training-shop/static/media/globe.afab6c089df5bad8489c353cb9672c4d.svg",
@@ -21,11 +30,11 @@
     "static/media/facebook.svg": "/training-shop/static/media/facebook.6d8ca4600d8c3308aeea5670bcc91faf.svg",
     "static/media/shopping-bag.svg": "/training-shop/static/media/shopping-bag.cddc071bd5dc6b49753aabb593ec8cec.svg",
     "index.html": "/training-shop/index.html",
-    "main.853597ca.css.map": "/training-shop/static/css/main.853597ca.css.map",
-    "main.0cf045eb.js.map": "/training-shop/static/js/main.0cf045eb.js.map"
+    "main.40e2085c.css.map": "/training-shop/static/css/main.40e2085c.css.map",
+    "main.84cb9d26.js.map": "/training-shop/static/js/main.84cb9d26.js.map"
   },
   "entrypoints": [
-    "static/css/main.853597ca.css",
-    "static/js/main.0cf045eb.js"
+    "static/css/main.40e2085c.css",
+    "static/js/main.84cb9d26.js"
   ]
 }
